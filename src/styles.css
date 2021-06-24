@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.app__body {
+  display: flex;
+  height: 100vh;
+}
+.app {
+  height: 100vh;
+}
